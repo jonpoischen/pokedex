@@ -1,3 +1,5 @@
+https://github.com/jonpoischen/pokedex/blob/main/pokedexVideoDemo.mp4
+
 ## Get started
 
 1. Install dependencies
