@@ -1,4 +1,6 @@
-https://github.com/jonpoischen/pokedex/blob/main/pokedexVideoDemo.mp4
+<video controls="" width="800" height="500" muted="" loop="" autoplay="">
+   <source src="https://github.com/jonpoischen/pokedex/blob/main/pokedexVideoDemo.mp4" type="video/mp4">
+</video>
 
 ## Get started
 
